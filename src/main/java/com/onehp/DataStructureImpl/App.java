@@ -1,11 +1,10 @@
-package com.1hp.DataStructureImpl;
+package com.onehp.DataStructureImpl;
 
 /**
  * Hello world!
  *
  */
-public class App 
-{
+public class App {
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
